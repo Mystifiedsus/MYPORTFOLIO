@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,3 +8,14 @@ html {
   scroll-behavior: smooth;
 }
 
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
+
+>>>>>>> 6edc309feef375dbf325ca46d39d3142d4cbc8fc
